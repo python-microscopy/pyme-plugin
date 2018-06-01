@@ -1,0 +1,1 @@
+#package_name.python_microscopy.dsviewer_modules.NAME_OF_FILE_WITHOUT_EXTENSION
