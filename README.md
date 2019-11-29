@@ -1,4 +1,4 @@
-# python-microscopy-plugin-template
+# pyme-plugin
 Template for making plug-ins for the Python-Microscopy Environment (PYME)
 
 ## Instructions
