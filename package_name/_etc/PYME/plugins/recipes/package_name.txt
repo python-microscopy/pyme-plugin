@@ -1,1 +1,1 @@
-#package_name.python_microscopy.recipe_modules.NAME_OF_FILE_WITHOUT_EXTENSION
+#package_name.recipe_modules.NAME_OF_FILE_WITHOUT_EXTENSION
