@@ -1,6 +1,3 @@
-#filtermodulename:
-#  import:
-#    import.call.for.filter.module
-#  filters:
-#    - first_filter
-#    - another_filter
+#import.call.for.filter.module
+#  - first_filter
+#  - another_filter
