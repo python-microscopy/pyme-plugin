@@ -12,6 +12,5 @@ mynewpackage.dsviewer_modules.my_core_functions
 mynewpackage.dsviewer_modules.my_other_dsview_modules
 ```
 4. Change the filenames of the `package_name.txt` files to match your package.
-5. Run `python install_plugin.py` to make PYME aware of your modules.
-6. Install your package however you need to install it e.g. distutils, etc.
- 
+5. In the top directory, edit `setup.py` to include your package name, version, and description.
+6. Run `python setup.py develop` or `python setup.py develop` from the top directory. This will install your package and run the post-install script (`install_plugin.py`) to register the plugin with PYME. Any additional configuration you would like to be automatic for users on install (e.g. a GUI pop up) can be added to that script.
